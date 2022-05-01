@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STUSAMEER
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me stujeddah@gmail.com
