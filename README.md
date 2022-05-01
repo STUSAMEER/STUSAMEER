@@ -1,6 +1,7 @@
+[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sameer Yasin</h1>
 <h3 align="center">Web & Mobile Development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/452800/screenshots/2423898/icon.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s&label=Profile%20views&color=0e75b6&style=flat" alt="s" /> </p>
 
