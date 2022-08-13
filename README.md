@@ -1,5 +1,5 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sameer Yasin</h1>
+<h1 align="center">Hi 👋, I'm Sameer M. Yasin</h1>
 <h3 align="center">Web & Mobile Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/452800/screenshots/2423898/icon.gif">
 
